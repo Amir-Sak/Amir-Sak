@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amir-Sak
+- 👋 Hi, I’m @Amir-Saker
 - 👀 I am a lifelong learner, embarking on a journey to explore the depths of Data Analytics!
 - 🌱 I’m currently learning SQL, Power BI, DAX, Power Query & tableau.
 - 💞️ Specialized in data collection, data cleaning, data analysis, and creating financial dashboards through data visualization.
